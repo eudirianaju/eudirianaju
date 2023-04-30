@@ -24,5 +24,5 @@
   
 </div>
 
-
+![Snake animation](https://github.com/eudirianaju/eudirianaju/blob/output/github-contribution-grid-snake.svg)
 
