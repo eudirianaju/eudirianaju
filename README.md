@@ -1,6 +1,6 @@
-### Olá! Eu sou a Ana Julia😊
+### Hi! My name is Ana Julia😊
 
-- 🌱 Estudando HTML, CSS e JavaScript
+- 🌱 Studying HTML, CSS e JavaScript
 
 
 
