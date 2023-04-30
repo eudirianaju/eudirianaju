@@ -1,7 +1,6 @@
 ### Olá! Eu sou a Ana Julia😊
 
 - 🌱 Estudando HTML, CSS e JavaScript
-- 😄 Pronomes:ela/dela
 
 
 
