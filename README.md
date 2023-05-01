@@ -2,7 +2,7 @@
 
 
 - ⏳  Web designer
-- 🌱 Studying HTML, CSS e JavaScript
+- 🌱 Studying HTML, CSS and JavaScript
 
 
 
