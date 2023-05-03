@@ -1,7 +1,6 @@
 ### Hi! My name is Ana Julia😊
 
 
-- ⏳  Web designer
 - 🌱 Studying HTML, CSS and JavaScript
 
 
