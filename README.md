@@ -19,8 +19,7 @@ UX/UI Design: Criando interfaces intuitivas e atraentes para uma experiência do
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eudirianaju&layout=donut&theme=cobalt)](https://github.com/eudirianaju/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eudirianaju&show_icons=true&theme=cobalt)
+
 
 
 <div style="display: inline_block"><br>
