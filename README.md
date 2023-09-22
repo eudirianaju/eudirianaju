@@ -4,7 +4,7 @@
 
 📚 Atualmente, sou estudante e estou concluindo o terceiro ano do ensino médio técnico em informática, onde mergulhei na área da programação há 3 anos. Esta jornada educacional tem complementado minha paixão pelo desenvolvimento web e design de UX/UI.
 
-🌐 Tenho experiência em:
+🌐 Tenho experiência em:</br>
 JavaScript: Transformando ideias em código interativo. </br>
 HTML: Construindo a base sólida da web.</br>
 CSS: Estilizando a web para uma aparência incrível.</br>
