@@ -8,7 +8,7 @@
 JavaScript: Transformando ideias em código interativo. </br>
 HTML: Construindo a base sólida da web.</br>
 CSS: Estilizando a web para uma aparência incrível.</br>
-MySQL: Gerenciando dados.</br>
+SQLServer: Gerenciando dados.</br>
 UX/UI Design: Criando interfaces intuitivas e atraentes para uma experiência do usuário excepcional.</br>
 
 🚀 Estou sempre em busca de novos desafios e oportunidades de aprendizado. Quero fazer parte da comunidade de desenvolvedores e designers e contribuir para projetos incríveis.
