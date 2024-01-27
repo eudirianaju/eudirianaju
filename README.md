@@ -17,6 +17,8 @@ UX/UI Design: Criando interfaces intuitivas e atraentes para uma experiência do
 
 🌟 Vamos criar a web juntos e proporcionar experiências incríveis aos usuários!
 
+💼 Nas horas vagas procuro testes front-end de diversas empresas para testar minhas habilidades, se conhecer algum, fique a vontade de me mandar. 💌
+
 
 
 
