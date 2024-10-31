@@ -1,27 +1,19 @@
-👋 Olá, sou Ana Julia!
+👋 Olá, sou Ana Julia e tenho 18 anos!
 
-💻 Desenvolvedora web iniciante e entusiasta de UX/UI apaixonada por criar experiências digitais incríveis. Minha jornada no mundo da programação começou com entusiasmo e curiosidade, e desde então tenho me dedicado a aprimorar minhas habilidades.
+Sou graduanda do primeiro semestre de Design de Mídias Digitais na FATEC, apaixonada por desenvolver projetos, especialmente em dar uma bela cara para eles no front end. Formada no ensino médio técnico em informática, estudei programação por 3 anos, onde realizei diversos projetos e um TCC utilizando minhas experiências em Java, SQL, Spring Boot, além de um bom front end, o que reforçou minha paixão pelo desenvolvimento web.
 
-📚 Atualmente, sou formada no ensino médio integrado ao técnico de informática, onde mergulhei na área da programação por 3 anos. Esta jornada educacional tem complementado minha paixão pelo desenvolvimento web e design de UX/UI.
+Estou em busca de novos desafios e oportunidades 🚀.
 
-🌐 Tenho experiência em:</br>
-JavaScript: Transformando ideias em código interativo. </br>
-HTML: Construindo a base sólida da web.</br>
-CSS: Estilizando a web para uma aparência incrível.</br>
-SQLServer: Gerenciando dados.</br>
-UX/UI Design: Criando interfaces intuitivas e atraentes para uma experiência do usuário excepcional.</br>
+Experiência em:
 
-🚀 Estou sempre em busca de novos desafios e oportunidades de aprendizado. Quero fazer parte da comunidade de desenvolvedores e designers e contribuir para projetos incríveis.
+	•	Java
+	•	Java Script
+	•	SQL Server
+	•	Spring Boot
+	•	HTML/CSS
+	•	UX/UI
 
-📫 Vamos colaborar? Entre em contato comigo para discutir ideias, projetos ou apenas para bater um papo!
-
-🌟 Vamos criar a web juntos e proporcionar experiências incríveis aos usuários!
-
-💌💼 Nas horas vagas procuro testes front-end de diversas empresas para testar minhas habilidades, se conhecer algum, fique a vontade de me mandar. 
-
-
-
-
+Vamos colaborar? Se souber de testes de front-end ou precisar de ajuda em projetos, fique à vontade para me enviar! 📫
 
 
 <div style="display: inline_block"><br>
